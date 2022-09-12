@@ -5,10 +5,8 @@
   "main": "app.js",
   "author": "Red Hat Training",
   "license": "ASL",
+  "scripts": "node app.js",
   "dependencies": {
     "express": "4.14.x"
-  }
-  "scripts":{
-    "start" : "de app.js"
   }
 }
